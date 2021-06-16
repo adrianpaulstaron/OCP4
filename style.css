@@ -18,14 +18,14 @@ a:hover {
     cursor: pointer;
 }
 
-#page-loading-blocs-notifaction {
+/* #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
     bottom: 0;
     width: 100%;
     z-index: 100000;
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
-}
+} */
 
 .bloc {
     width: 100%;
@@ -153,9 +153,9 @@ a:hover {
     color: rgba(255, 255, 255, 1);
 }
 
-.d-bloc .navbar-toggle .icon-bar {
+/* .d-bloc .navbar-toggle .icon-bar {
     background: rgba(255, 255, 255, 1);
-}
+} */
 
 .d-bloc .btn-wire,
 .d-bloc .btn-wire:hover {
@@ -639,14 +639,6 @@ a[data-lightbox]:hover img {
     background: none;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p,
-label,
 .btn,
 a {
     font-family: "helvetica";
@@ -677,7 +669,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 17px;
 }
 
 .tight-width-whitespace {
@@ -685,9 +677,15 @@ p {
     margin: auto auto auto auto;
 }
 
-.h1 {
+
+
+h2 {
     font-size: 20px;
-    font-family: "Open Sans";
+    padding: 15px;
+}
+
+h3 {
+    font-size: 17px;
 }
 
 .cta-hero {
@@ -776,6 +774,10 @@ h4 {
 
 .tc-white {
     color: #F3976C!important;
+}
+
+.title-white {
+    color: white
 }
 
 .btn-atomic-tangerine {
