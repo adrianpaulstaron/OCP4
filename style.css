@@ -76,6 +76,10 @@ a:hover {
 	padding: 20px 50px
 }
 
+textarea {
+	resize: none;
+}
+
 .bg-b-edge,
 .bg-br-edge,
 .bg-center,
