@@ -108,7 +108,7 @@ a:hover {
 }
 
 .texture-paper::before {
-	background: url(https://adrianpaulstaron.github.io/OCP4/img/texture-paper.png);
+	background: url(./img/texture-paper.png);
 	background-size: 280px 280px
 }
 
@@ -507,11 +507,11 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-	background-color: #f3976c
+	background-color: #d34504
 }
 
 .tc-white {
-	color: #f3976c!important
+	color: #ffb491!important
 }
 
 .title-white {
@@ -519,7 +519,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-	background: #f3976c;
+	background: #d34504;
 	color: #fff!important
 }
 
@@ -537,7 +537,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-	color: #f3976c!important
+	color: #d34504!important
 }
 
 .ltc-atomic-tangerine:hover {
@@ -550,15 +550,15 @@ h4 {
 }
 
 .bg-lines-h2-bg {
-	background-image: url(https://adrianpaulstaron.github.io/OCP4/img/lines-h2-bg.png)
+	background-image: url(./img/lines-h2-bg.png)
 }
 
 .bg-banniere {
-	background-image: url(https://adrianpaulstaron.github.io/OCP4/img/la-chouette-agence-banniere.jpg)
+	background-image: url(./img/la-chouette-agence-banniere.jpg)
 }
 
 .bg-presentation {
-	background-image: url(https://adrianpaulstaron.github.io/OCP4/img/image-de-presentation.bmp)
+	background-image: url(./img/image-de-presentation.jpg)
 }
 
 @media (max-width:1024px) {
